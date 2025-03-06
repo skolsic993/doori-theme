@@ -1,7 +1,7 @@
 {
   "name": "doori-theme",
-  "displayName": "Doori Theme",
-  "description": "Doori Theme",
+  "displayName": "Doori dark theme",
+  "description": "Doori dark theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Doori Theme",
+        "label": "Doori dark theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Doori Theme-color-theme.json"
+        "path": "./themes/doori-theme-color-theme.json"
       }
     ]
   }
